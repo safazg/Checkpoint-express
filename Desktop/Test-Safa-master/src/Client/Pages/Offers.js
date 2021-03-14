@@ -1,0 +1,5 @@
+const Offers = () => (
+    <div>
+      <h2>Offers</h2>
+    </div>
+  );
